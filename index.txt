@@ -1,1 +1,3 @@
 index_txt
+if(12>0){
+console.log(true)};
